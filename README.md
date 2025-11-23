@@ -1,4 +1,4 @@
-[`easy-theme-preview`](https://git.sr.ht/~ayys/theme-preview-mode.el) is an Emacs Lisp package that provides a simple,
+[`easy-theme-preview`](https://github.com/ayys/easy-theme-preview.el) is an Emacs Lisp package that provides a simple,
 interactive buffer for browsing, and previewing Emacs themes
 using a **tabulated-list** interface.
 
