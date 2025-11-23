@@ -3,13 +3,12 @@
 ;; Copyright (C) 2025 Ayush Jha (ayys AT duck DOT com)
 
 ;; Package: easy-theme-preview
-;; Version: 1.0
+;; Version: 0.0.1
 ;; Author: Ayush Jha <ayys@duck.com>
 ;; URL: https://git.sr.ht/~ayys/theme-preview-mode.el
-;; Keywords: theme, faces, convenience, utility, tabulated-list
+;; Keywords: theme, convenience, utility
 ;; Package-Requires: ((emacs "24.3"))
 ;; License: GPL-3.0-or-later
-;; Coding: utf-8
 
 ;; This file is not part of GNU Emacs.
 
