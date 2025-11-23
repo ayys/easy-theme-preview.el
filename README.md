@@ -1,4 +1,4 @@
-[\`easy-theme-preview\`](https://git.sr.ht/~ayys/theme-preview-mode.el) is an Emacs Lisp package that provides a simple,
+[`easy-theme-preview`](https://git.sr.ht/~ayys/theme-preview-mode.el) is an Emacs Lisp package that provides a simple,
 interactive buffer for browsing, and previewing Emacs themes
 using a **tabulated-list** interface.
 
@@ -8,7 +8,7 @@ You can also install new themes, then press "g" to refresh the buffer.
 # Installation
 
 This package is not currently available on MELPA, but you can manually
-install it by placing \`easy-theme-preview.el\` in your Emacs load path
+install it by placing `easy-theme-preview.el` in your Emacs load path
 and adding the following to your configuration:
 
     (require 'easy-theme-preview)
@@ -16,13 +16,13 @@ and adding the following to your configuration:
 
 # Usage
 
-Execute the command \`M-x easy-theme-preview\` to open the theme
+Execute the command `M-x easy-theme-preview` to open the theme
 selection buffer.
 
 
 # Keybindings
 
-The \`easy-theme-preview-mode\` buffer uses the following keybindings:
+The `easy-theme-preview-mode` buffer uses the following keybindings:
 
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
