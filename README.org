@@ -1,0 +1,22 @@
+#+title: Easily preview themes
+#+author: Ayush Jha
+#+language: English
+#+email: ayys@duck.com
+
+
+* Basics
+
+Provides a buffer with a list of all your themes, which you can then
+try out quite easily.
+
+You can also install new themes, then press "g" to refresh the
+buffer.
+
+* Key bindings in =easy-theme-preview-mode=
+
+| Key binding | Description                    |
+| g           | refresh theme list             |
+| a           | Apply theme at point           |
+| A           | Apply on top of existing theme |
+| r           | unload all themes              |
+| R          | unload theme at point          |
