@@ -1,12 +1,6 @@
 # Compiled
 *.elc
 
-# Packaging
-.cask/
-.eask/
-.eldev/
-.keg/
-
 # Built distribution
 dist/
 
