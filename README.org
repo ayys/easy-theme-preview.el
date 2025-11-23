@@ -3,6 +3,7 @@
 #+language: English
 #+email: ayys@duck.com
 #+keywords: emacs, theme, preview, utility
+#+options: toc:nil
 
 [[https://git.sr.ht/~ayys/theme-preview-mode.el][`easy-theme-preview`]] is an Emacs Lisp package that provides a simple,
 interactive buffer for browsing, and previewing Emacs themes
