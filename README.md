@@ -8,14 +8,12 @@ You can also install new themes, then press "g" to refresh the buffer.
 
 # Installation
 
-This package is not currently available on MELPA, but you can manually
-install it by placing `easy-theme-preview.el` in your Emacs load path
-and adding the following to your configuration:
+You can install the package from [melpa](https://melpa.org/#/easy-theme-preview) as such:
 
-    (require 'easy-theme-preview)
+```scheme
+(use-package easy-theme-preview)
 
-The PR for getting this merged to Melpa is [here](https://github.com/melpa/melpa/pull/9701).
-
+```
 
 # Usage
 
